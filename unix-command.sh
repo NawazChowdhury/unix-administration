@@ -4,3 +4,5 @@ mkdir nawazchowdhury
 #this commadn create folder
 cd nawazchowdhury
 #this command allow user to go to a particular directory
+ls -l
+#displaying all directories and permission
